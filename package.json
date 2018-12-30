@@ -1,0 +1,25 @@
+{
+  "name": "unlimited-adventures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpoirier/UnlimitedAdventures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpoirier/UnlimitedAdventures/issues"
+  },
+  "homepage": "https://github.com/rpoirier/UnlimitedAdventures#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
